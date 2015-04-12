@@ -1,0 +1,5 @@
+X:\Coding Project\screenoff\screenoff\bin\Release\screenoff.exe.config
+X:\Coding Project\screenoff\screenoff\bin\Release\screenoff.exe
+X:\Coding Project\screenoff\screenoff\bin\Release\screenoff.pdb
+X:\Coding Project\screenoff\screenoff\obj\Release\screenoff.exe
+X:\Coding Project\screenoff\screenoff\obj\Release\screenoff.pdb

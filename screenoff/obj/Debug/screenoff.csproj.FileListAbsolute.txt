@@ -1,0 +1,8 @@
+X:\Coding Project\screenoff\screenoff\bin\Debug\screenoff.exe.config
+X:\Coding Project\screenoff\screenoff\obj\Debug\screenoff.csprojResolveAssemblyReference.cache
+X:\Coding Project\screenoff\screenoff\bin\Debug\screenoff.exe
+X:\Coding Project\screenoff\screenoff\bin\Debug\screenoff.pdb
+X:\Coding Project\screenoff\screenoff\bin\Debug\WindowsInput.dll
+X:\Coding Project\screenoff\screenoff\bin\Debug\WindowsInput.xml
+X:\Coding Project\screenoff\screenoff\obj\Debug\screenoff.exe
+X:\Coding Project\screenoff\screenoff\obj\Debug\screenoff.pdb
