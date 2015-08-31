@@ -1,2 +1,2 @@
 # screenoff
-Standalone C# program to shut down monitor using Win32 api
+Standalone C# snippet to shut down monitor using Win32 api
